@@ -1,7 +1,5 @@
-# Job Scraper
-
-A Python application that web scrapes job positions from multiple websites and finds positions matching your skills and keywords.
-
+# JobScraper
+Leveraging help from AI to write a job scrapper to web scrap the job listings of different companies and return urls for ones that might fit my needs. WIP.
 ## Features
 
 - **Web Scraping**: Scrape multiple job websites for positions
