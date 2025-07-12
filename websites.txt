@@ -1,0 +1,8 @@
+# Add websites to scrape, one per line
+https://www.awardco.com/careers#job-openings
+https://careers.adobe.com/us/en/c/information-technology-jobs
+https://www.github.careers/careers-home/jobs?keywords=developer
+https://www.python.org/jobs/
+https://careers.hasbro.com/careers?start=0&pid=68748234828&sort_by=hot&filter_department=WIZARDS
+https://careers.hasbro.com/careers?domain=hasbro.com&triggerGoButton=false&query=%22Skeleton+Key%22&start=0&pid=68748764885&sort_by=timestamp
+https://www.qualtrics.com/careers/us/en/c/engineering-product-ux-design-jobs

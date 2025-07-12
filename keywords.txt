@@ -1,0 +1,71 @@
+# Job Keywords Based on Christian Hall's Resume - Focused on Actual Experience
+# Core Technologies & Languages (from resume)
+python
+javascript
+typescript
+node.js
+react
+angular
+java
+c#
+.net
+html
+css
+sql
+postgresql
+mysql
+mongodb
+
+# Job Titles & Roles (matching your experience level)
+software engineer
+senior software engineer
+full stack developer
+backend developer
+frontend developer
+web developer
+technical lead
+staff engineer
+
+# Frameworks & Tools (from your actual projects)
+spring boot
+django
+express.js
+bootstrap
+maven
+npm
+webpack
+junit
+
+# DevOps & Cloud (basic terms you'd encounter)
+docker
+aws
+ci/cd
+microservices
+devops
+
+# Methodologies & Practices (standard industry terms)
+agile
+scrum
+test driven development
+continuous integration
+software architecture
+restful apis
+oauth
+api development
+
+# Industry Terms (relevant to your background)
+saas
+enterprise software
+scalability
+performance optimization
+security
+authentication
+authorization
+web services
+
+# Remote & Work Preferences
+remote
+hybrid
+work from home
+distributed team
+flexible schedule
